@@ -1,13 +1,14 @@
 { 
 
+"a1":   "https://games",
+"a2":   "https://gnula",
+"a3":   "io",
+"a4":   "google",
+"a5":   "https://play"
+     
 
-    "a":{ 
 
-    
-    "google": "google",
-    "lastName": "Doe",
-    "age": 25
-  },
-    "b": "Doe",
-    "c": 25
+
+
+
   }
