@@ -1,13 +1,16 @@
 { 
-    "a0":   "https://unonibes4a.github.io/nvalerianx/",
-    "a1":   "https://gnula.b",
-    "a2":   "https://www.pel",
+    "a0":   "unonibes4a",
+    "a1":   ".github.io",
+    "a2":   "/nvalerianx/",
     "a3":   "https://unonibe",
     "a4":  "Grapes",
     "a5":   "https://www.goo",     
     "a6":   "https://megalat",
     
-    "a7":   "https://games.c"
+    "a7":   "https://games.c",
     
+    "a8":   "https://gnula.b",
+    "a9":   "https://www.pel",
+    "a10":   "https://unonibe"
     
-      }
+      } 
